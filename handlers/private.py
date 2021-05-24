@@ -8,9 +8,9 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""**Hey there, 𝗜'𝗺 ⚡ 𝐌α𝐅ια 𝐂яα𝐙𝚈 𝐕𝐜 𝐁σт ™ ⚡
+        f"""**Hey there, 𝗜'𝗺 ⚡ ANSHIKA MUSIC BOT ™ ⚡
 
-I can play music in your group's voice call. Developed by [⚡ 𝐌𝐀𝐅𝐈𝐀_𝐂𝐑𝐀𝐙𝐘 ⚡](https://t.me/MAFIAxCRAZY).
+I can play music in your group's voice call. Developed by [⚡ ANSHIKA SINGH ⚡](https://t.me/@nshikasingh_4).
 
 Add me to your group and play music freely!**
         """,
@@ -18,17 +18,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "♻ 𝐎𝐖𝐍𝐄𝐑 ♻", url="https://t.me/MAFIAxCRAZY")
+                        "♻ SUPPORT GROUP ♻", url="https://t.me/schoolmastii")
                   ],[
                     InlineKeyboardButton(
-                        "🔰 𝐆𝐑𝐎𝐔𝐏 🔰", url="https://t.me/music_groupop")
+                        "👤 CONTACT OWNER 👤", url="https://t.me/Anshikasingh_4")
                     ),
                     InlineKeyboardButton(
-                        "🎛️ 𝐌𝐀𝐍𝐔𝐀𝐋 🎛️", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
+                        "🎛️ COMMANDS 🎛️", url="https://telegra.ph/ANSHIKA-MUSIC-05-24-2"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ 𝐀𝐃𝐃 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="https://t.me/MAFIAxCRAZY_MUSICxBOT?startgroup=true"
+                        "➕ ADD TO YOUR GROUP ➕", url="https://t.me/ANSHIKAMUSIC_BOT?startgroup=true"
                     )]
             ]
         ),
@@ -37,12 +37,12 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⚡ 𝐌α𝐅ια 𝐂яα𝐙𝚈 𝐕𝐜 𝐁σт ™ ⚡ is on fire 🔥 ✅**""",
+      await message.reply_text("""**⚡ ANSHIKA MUSIC BOT ™ ⚡ is on fire 🔥 ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "😈 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐌𝐘 𝐇𝐄𝐋𝐋 😈", url="https://t.me/music_groupop")
+                        "❤️ MY CREATOR ❤️", url="https://t.me/Anshikasingh_4")
                 ]
             ]
         )
