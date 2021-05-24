@@ -106,8 +106,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝐌𝐀𝐅𝐈𝐀𝐱𝐂𝐑𝐀𝐙𝐘",
-                        url="https://t.me/MAFIAxCRAZY")
+                        text="ANSHIKA SINGH",
+                        url="https://t.me/Anshikasingh_4")
                    
                 ]
             ]
@@ -132,8 +132,8 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝐏𝐑𝐎 𝐀𝐒 𝐅𝐔*𝐊",
-                            url=f"https://t.me/MAFIAxCRAZY")
+                            text="ANSHIKA SINGH",
+                            url=f"https://t.me/Anshikasingh_4")
 
                     ]
                 ]
@@ -169,7 +169,7 @@ async def play(_, message: Message):
                 )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/638c20c44ca418c8b2178.jpg"
+            thumb_name = "https://telegra.ph/file/975d45860a450231c41ce.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
