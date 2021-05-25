@@ -18,10 +18,10 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "♻ SUPPORT GROUP ♻", url="https://t.me/schoolmastii")
+                        "♻ SUPPORT CHAT ♻", url="https://t.me/schoolmastii")
                   ],[
                     InlineKeyboardButton(
-                        "👤 CONTACT OWNER 👤", url="https://t.me/Anshikasingh_4")
+                        "👤 OWNER 👤", url="https://t.me/Anshikasingh_4")
                     ],[
                     InlineKeyboardButton(
                         "🎛️ COMMANDS 🎛️", url="https://telegra.ph/ANSHIKA-MUSIC-05-24-2"
