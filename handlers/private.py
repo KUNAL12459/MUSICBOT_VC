@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey there, 𝗜'𝗺 ⚡ ANSHIKA MUSIC BOT ™ ⚡
 
-I can play music in your group's voice call. Developed by [⚡ ANSHIKA SINGH ⚡](https://t.me/@nshikasingh_4).
+I can play music in your group's voice call. Developed by [⚡ ANSHIKA SINGH ⚡](https://t.me/anshikasingh_4).
 
 Add me to your group and play music freely!**
         """,
