@@ -22,7 +22,7 @@ Add me to your group and play music freely!**
                   ],[
                     InlineKeyboardButton(
                         "👤 CONTACT OWNER 👤", url="https://t.me/Anshikasingh_4")
-                    ),
+                    ],[
                     InlineKeyboardButton(
                         "🎛️ COMMANDS 🎛️", url="https://telegra.ph/ANSHIKA-MUSIC-05-24-2"
                     )
