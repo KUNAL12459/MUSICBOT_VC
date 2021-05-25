@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/bddc412872ab40706469c.jpg">
+  <img src="https://telegra.ph/file/975d45860a450231c41ce.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -16,6 +16,7 @@
 ### Commands 🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
+- `/ytp  <song name>` - search to youtube url or song file to play song
 - `/play <song name>` - play song you requested
 - `/song <song name>` - download songs you want quickly
 - `/search <query>` - search videos on youtube with details
@@ -34,6 +35,8 @@
 
 <p align="left"><a href="https://replit.com/@coffinXmusic/MusicBot?v=10"> <img src="https://img.shields.io/badge/Pyrogram%20String%20Session-black?style=for-the-badge&logo=repl.it" width="220" height="38.45"/></a></p>
 
-
+## SUPPORTER
+- [D3VIL_RAHUL](https://t.me/D3VIL_RAHUL02)
+- [ANSHIKA SINGH](https://t.me/Anshikasingh_4)
     
                                        
