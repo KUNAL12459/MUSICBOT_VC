@@ -8,9 +8,9 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""**Hey there, 𝗜'𝗺 ⚡ ANSHIKA MUSIC BOT ™ ⚡
+        f"""**Hey there, 𝗜'𝗺 ⚡𝚆𝙸𝙽𝚉𝙾 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃™ ⚡
 
-I can play music in your group's voice call. Developed by [⚡ ANSHIKA SINGH ⚡](https://t.me/anshikasingh_4).
+I can play music in your group's voice call. Developed by [⚡ 𝚅𝙴𝙽𝙾𝙼 𝚂𝙷𝙸𝚅𝙰𝙼 ⚡](https://t.me/SHIVAM9412).
 
 Add me to your group and play music freely!**
         """,
@@ -18,17 +18,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "♻ SUPPORT CHAT ♻", url="https://t.me/schoolmastii")
+                        "♻ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃♻", url="https://t.me/WINZOGOLD_DISCUSS")
                   ],[
                     InlineKeyboardButton(
-                        "👤 OWNER 👤", url="https://t.me/Anshikasingh_4")
+                        "👤 𝙾𝚆𝙽𝙴𝚁 👤", url="https://t.me/SHIVAM9412")
                     ],[
                     InlineKeyboardButton(
-                        "🎛️ COMMANDS 🎛️", url="https://telegra.ph/ANSHIKA-MUSIC-05-24-2"
+                        "🎛️ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 🎛️", url="https://telegra.ph/ANSHIKA-MUSIC-05-24-2"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ ADD TO YOUR GROUP ➕", url="https://t.me/ANSHIKAMUSIC_BOT?startgroup=true"
+                        "➕ 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕", url="https://t.me/winzo_musicBot?startgroup=true"
                     )]
             ]
         ),
@@ -37,12 +37,12 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⚡ ANSHIKA MUSIC BOT ™ ⚡ is on fire 🔥 ✅**""",
+      await message.reply_text("""**⚡ 𝚆𝙸𝙽𝚉𝙾 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃 ™ ⚡ is on fire 🔥 ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❤️ MY CREATOR ❤️", url="https://t.me/Anshikasingh_4")
+                        "❤️ 𝙼𝙾𝙸 𝙾𝙿 𝙼𝙰𝚂𝚃𝙴𝚁 ❤️", url="https://t.me/SHIVAM9412")
                 ]
             ]
         )
