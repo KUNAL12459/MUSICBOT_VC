@@ -106,8 +106,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝚅𝙴𝙽𝙾𝙼 𝚂𝙷𝙸𝚅𝙰𝙼",
-                        url="https://t.me/SHIVAM9412")
+                        text="𝗗3 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘🤟",
+                        url="https://t.me/D3VIL_OP_BOLTE")
                    
                 ]
             ]
@@ -132,8 +132,8 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝚅𝙴𝙽𝙾𝙼 𝚂𝙷𝙸𝚅𝙰𝙼",
-                            url=f"https://t.me/SHIVAM9412")
+                            text="𝗗3 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘🤟",
+                            url=f"https://t.me/D3VIL_OP_BOLTE")
 
                     ]
                 ]
