@@ -18,10 +18,10 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "♻ 𝗗3 𝗢𝗪𝗡𝗘𝗥 ♻", url="https://t.me/WINZOGOLD_DISCUSS")
+                        "♻ 𝗗3 𝗢𝗪𝗡𝗘𝗥 ♻", url="https://t.me/OWNER_OF_TEAM_D3VIL")
                   ],[
                     InlineKeyboardButton(
-                        "👤 𝗚𝗥𝗢𝗨𝗣 👤", url="https://t.me/SHIVAM9412")
+                        "👤 𝗚𝗥𝗢𝗨𝗣 👤", url="https://t.me/D3VIL_OP_BOLTE")
                     ],[
                     InlineKeyboardButton(
                         "🎛️ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🎛️", url="https://telegra.ph/𝗗3-𝗠𝗨𝗦𝗜𝗖-06-15"
