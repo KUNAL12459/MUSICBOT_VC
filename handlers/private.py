@@ -8,9 +8,9 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""**Hey there, 𝗜'𝗺 ⚡𝗗3 𝗢𝗣 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧🤟™ ⚡
+        f"""**Hey there, 𝗜'𝗺 ⚡ 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧🤟™ ⚡
 
-I can play music in your group's voice call. Developed by [⚡ ❌🔥𝘿3𝙑𝙄𝙇 ✘ 𝗦𝗔𝗜𝗙🔥❌ ⚡](https://t.me/saifalisew1508).
+I can play music in your group's voice call. Developed by [⚡𓆩भारतीय𓆪 [• 🇮🇳 •] 𝐒𝐀𝐈𝐅╚»𖣘︎≛━━◤✘#𝐒𝐈𝐌𝐏𝐋𝐄_𝐁𝐎𝐘⚡](https://t.me/saifalisew1508).
 
 Add me to your group and play music freely!**
         """,
@@ -18,20 +18,20 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🔥 𝗗3 𝗢𝗪𝗡𝗘𝗥 🔥", url="https://t.me/D3VILGULSHAN")
+                        "🔥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣 🔥", url="https://t.me/TNR_ON_TOP")
                   ],[
                     InlineKeyboardButton(
-                        "🔥 𝗗3 𝗢𝗪𝗡𝗘𝗥 2 🔥", url="https://t.me/OWNER_OF_TEAM_D3VIL")
+                        "🔥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🔥", url="https://t.me/TNRBOLTE")
                     ],[
                     InlineKeyboardButton(
-                        "🔰 𝗚𝗥𝗢𝗨𝗣 🔰", url="https://t.me/D3VIL_OP_BOLTE")
+                        "🔰 𝗢𝗪𝗡𝗘𝗥 🔰", url="https://t.me/D3VIL_OP_BOLTE")
                     ],[
                     InlineKeyboardButton(
                         "🎛️ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🎛️", url="https://telegra.ph/𝗗3-𝗠𝗨𝗦𝗜𝗖-06-15"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕", url="https://t.me/D3_MUSIC_BOT?startgroup=true"
+                        "➕ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕", url="https://t.me/TNR_MUSICBOT?startgroup=true"
                     )]
             ]
         ),
@@ -40,7 +40,7 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⚡ 𝗗3 𝗢𝗣 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧🤟™ ⚡ is on fire 🔥 ✅**""",
+      await message.reply_text("""**⚡ 𝗧𝗡𝗥 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 ⚡ is on fire 🔥 ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
