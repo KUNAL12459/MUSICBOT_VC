@@ -106,8 +106,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗗3 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘🤟",
-                        url="https://t.me/D3VIL_OP_BOLTE")
+                        text="𝗗𝗘𝗟𝗢𝗣𝗘𝗗 𝗕𝗬🤟",
+                        url="https://t.me/SAIFALISEW1508")
                    
                 ]
             ]
@@ -132,8 +132,8 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝗗3 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘🤟",
-                            url=f"https://t.me/D3VIL_OP_BOLTE")
+                            text="𝗧𝗡𝗥 𝗢𝗣 𝗕𝗢𝗟𝗧𝗘",
+                            url=f"https://t.me/TNR_ON_TOP")
 
                     ]
                 ]
